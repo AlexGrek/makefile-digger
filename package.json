@@ -1,0 +1,17 @@
+{
+  "name": "makefile-digger",
+  "version": "1.0.0",
+  "description": "makefile digger",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kba/makefile-parser": "0.0.3"
+  }
+}
